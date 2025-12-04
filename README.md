@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" width="100%" alt="banner animado">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" width="75%" alt="banner animado">
 </p>
 
 <h1 align="center">✨ Hola, soy <strong>Anthony Franco</strong> ✨</h1>
