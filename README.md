@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/dB6O0uE.gif](https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075)" width="100%" alt="banner animado">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" width="100%" alt="banner animado">
 </p>
 
 <h1 align="center">✨ Hola, soy <strong>Anthony Franco</strong> ✨</h1>
@@ -18,6 +18,16 @@
 
 Soy un desarrollador de software apasionado por crear soluciones útiles, aprender nuevas tecnologías y mejorar mis habilidades cada día.  
 Mi enfoque es **crecer como programador**, trabajar en proyectos reales y aportar con responsabilidad, disciplina y energía positiva.
+
+---
+
+# ✨ Más sobre mí
+
+👋 Me interesa crear aplicaciones móviles y web.  
+🌱 Actualmente estoy aprendiendo **Python**, **JavaScript**, **Angular** y fortaleciendo mi lógica de programación.  
+💡 Busco colaborar en proyectos interesantes donde pueda aportar y seguir creciendo.  
+⚡ Dato curioso: Me gusta más el **Frontend**, pero siempre estoy dispuesto a aprender de todo.  
+📲 Puedes contactarme también por Instagram: **@ant_x_xx**
 
 ---
 
@@ -43,8 +53,6 @@ Mi enfoque es **crecer como programador**, trabajar en proyectos reales y aporta
 
 # 🚀 Proyectos Destacados
 
-*(Puedes editarlos cuando tengas proyectos reales.)*
-
 ### 🔹 **📊 Visualizador de datos climáticos**
 Lenguaje: Python  
 Descripción: Sistema para visualizar datos de temperatura por fecha y población.  
@@ -52,7 +60,7 @@ Descripción: Sistema para visualizar datos de temperatura por fecha y població
 
 ### 🔹 **🌐 Mini páginas web personales**
 Lenguajes: HTML, CSS, JavaScript  
-Descripción: Experimentos y prácticas de interfaces web.
+Descripción: Interfaces simples y prácticas de aprendizaje.
 
 ### 🔹 **📁 Scripts de automatización en Python**
 Lenguajes: Python  
@@ -84,12 +92,12 @@ Descripción: Scripts básicos para procesar y analizar datos.
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AntF2&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntF2&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AntF2&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntF2&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntF2&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=AntF2&theme=tokyonight" />
 </p>
 
 ---
@@ -110,4 +118,3 @@ Mi meta es crecer constantemente y aportar valor a cada equipo donde participe.
 ---
 
 <h3 align="center">🌟 ¡Gracias por visitar mi perfil! 🌟</h3>
-
