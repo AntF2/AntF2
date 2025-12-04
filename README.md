@@ -4,30 +4,22 @@
 </p>
 
 <h1 align="center">✨ Hola, soy <strong>Anthony Franco</strong> ✨</h1>
-<h3 align="center">Desarrollador de Software | Programador Jr | En constante crecimiento 🚀</h3>
+<h3 align="center">Desarrollador de Software | Programador Jr 🚀</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programador-Jr-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/País-Ecuador-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Aprendizaje%20constante-🔥-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ecuador-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-🔥-blue?style=for-the-badge">
 </p>
 
 ---
 
 # 🧑‍💻 Sobre mí
 
-Soy un desarrollador de software apasionado por crear soluciones útiles, aprender nuevas tecnologías y mejorar mis habilidades cada día.  
-Mi enfoque es **crecer como programador**, trabajar en proyectos reales y aportar con responsabilidad, disciplina y energía positiva.
-
----
-
-# ✨ Más sobre mí
-
-👋 Me interesa crear aplicaciones móviles y web.  
-🌱 Actualmente estoy aprendiendo **Python**, **JavaScript**, **Angular** y fortaleciendo mi lógica de programación.  
-💡 Busco colaborar en proyectos interesantes donde pueda aportar y seguir creciendo.  
-⚡ Dato curioso: Me gusta más el **Frontend**, pero siempre estoy dispuesto a aprender de todo.  
-📲 Puedes contactarme también por Instagram: **@ant_x_xx**
+Soy un desarrollador apasionado por crear aplicaciones web y móviles.  
+Actualmente aprendo **Python**, **TypeScript**, **Angular** y mejores prácticas de desarrollo.  
+Me gusta aportar en proyectos, aprender rápido y construir interfaces Frontend.  
+📲 También estoy en Instagram: **@ant_x_xx**
 
 ---
 
@@ -35,17 +27,18 @@ Mi enfoque es **crecer como programador**, trabajar en proyectos reales y aporta
 
 ### 🔥 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,ts,python,js,nodejs" />
 </p>
 
 ### 🗄️ Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
 </p>
 
-### ⚙️ Herramientas
+### ⚙️ Frameworks y Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=angular,react" /> 
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
@@ -53,67 +46,40 @@ Mi enfoque es **crecer como programador**, trabajar en proyectos reales y aporta
 
 # 🚀 Proyectos Destacados
 
-### 🔹 **📊 Visualizador de datos climáticos**
-Lenguaje: Python  
-Descripción: Sistema para visualizar datos de temperatura por fecha y población.  
-➡️ *Proyecto realizado en INAMHI*
+### 🔹 **El-despertar-sabroso-web**
+Sitio web completo para la tienda de comida “El Despertar Sabroso”.  
+Incluye páginas: Inicio, Menú, Nosotros, Contacto, Trabaja con Nosotros y Facturación.  
+🔗 https://github.com/AntF2/El-despertar-sabroso-web
 
-### 🔹 **🌐 Mini páginas web personales**
-Lenguajes: HTML, CSS, JavaScript  
-Descripción: Interfaces simples y prácticas de aprendizaje.
+---
 
-### 🔹 **📁 Scripts de automatización en Python**
-Lenguajes: Python  
-Descripción: Scripts básicos para procesar y analizar datos.
+### 🔹 **📊 Visualizador de datos climáticos — INAMHI**
+Aplicación en Python para visualizar y analizar datos de temperatura organizados por población y fecha.  
+🔧 Python | Datos | Automatización  
 
 ---
 
 # 🛰️ Experiencia Técnica
 
-## 👨‍💻 Practicante — INAMHI  
-📅 Abril 2024 – Julio 2024  
-🔧 Python | Análisis de datos | Automatización  
-
-- Desarrollo de un programa para visualizar datos de temperatura.  
-- Clasificación de datos por población y fecha.  
-- Análisis y manejo de almacenamiento básico de datos.
+👨‍💻 **Practicante — INAMHI (Abr–Jul 2024)**  
+Desarrollo de un programa en Python para visualización y análisis básico de datos climáticos.
 
 ---
 
 # 🎓 Educación
 
-🎓 **Tecnólogo en Desarrollo de Software — Quito Metropolitano (2022–2025)**  
-🧩 Habilidades digitales — Cámara de Comercio de Quito  
-🌐 CCNAv7 Cisco — Redes  
+🎓 Tecnólogo en Desarrollo de Software — Quito Metropolitano  
+🌐 CCNAv7 Cisco  
+🧩 Habilidades digitales  
 🇺🇸 Inglés: Escrito Avanzado | Oral Intermedio  
-
----
-
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AntF2&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntF2&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AntF2&theme=tokyonight" />
-</p>
-
----
-
-# 🎯 Objetivo Profesional
-
-Seguir desarrollándome como programador, especializarme en desarrollo web y crear proyectos cada vez más profesionales.  
-Mi meta es crecer constantemente y aportar valor a cada equipo donde participe.
 
 ---
 
 # 📬 Contacto
 
-📧 **Correo:** afranco12004@gmail.com  
-📱 **Celular:** 0969552422  
-🐙 **GitHub:** [AntF2](https://github.com/AntF2)  
+📧 **afranco12004@gmail.com**  
+📱 **0969552422**  
+🐙 **GitHub:** https://github.com/AntF2  
 
 ---
 
